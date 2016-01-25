@@ -1,2 +1,3 @@
 # playground
-Just a simple test playground
+
+Just a simple test playground for my GIT tests ...
